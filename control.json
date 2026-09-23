@@ -1,5 +1,5 @@
 {
-  "app_enabled": true,
+  "app_enabled": false,
   "kill_message": "Failed to inject file please try again",
   "min_version": 2.9,
   "blocked_devices": []
